@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Theabushazia
-- 👀 I’m interested in ... reading about philosophy, especially rené descarte
+- 👀 I’m interested in ... reading about philosophy and psychology
 - 🌱 I’m currently learning ... Python, just starting learning
 - 💞️ I’m looking to collaborate on ... any projects once i get the basics of python down
 - 📫 How to reach me ... Theabushazia@gmail.com
